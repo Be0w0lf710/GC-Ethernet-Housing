@@ -2,7 +2,7 @@ This project is for those who want to print there own housing for the WebHDx ETH
 
 Print with 100% infill and no supports are needed.
 
-Network board is pressure fitted so all that is needed to to glue the housing together itself.  (hotglue or superglue both work)
+Network board is pressure fitted so all that is needed is to glue the housing together itself.  (hotglue or superglue both work)
 
 ![GCEthHousing5](https://github.com/Be0w0lf710/GC-Ethernet-Housing/assets/90288196/2b82fc82-c74d-4105-9aee-d580c60c09b0)
 
