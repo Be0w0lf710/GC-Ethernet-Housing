@@ -4,6 +4,9 @@ Print with 100% infill and no supports are needed.
 
 Network board is pressure fitted so all that is needed is to glue the housing together itself.  (hotglue or superglue both work)
 
+You can glue the SP2 adapter to the housing if you want for extra stability, 
+just make sure to line it up properly before glueing so it fits into the SP2 slot.
+
 ![GCEthHousing5](https://github.com/Be0w0lf710/GC-Ethernet-Housing/assets/90288196/2b82fc82-c74d-4105-9aee-d580c60c09b0)
 
 ![GCEthHousing4](https://github.com/Be0w0lf710/GC-Ethernet-Housing/assets/90288196/585e8cb7-6cf4-4e17-ad27-9d00aab8f493)
